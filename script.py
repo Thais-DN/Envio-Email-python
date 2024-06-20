@@ -85,7 +85,7 @@ people = [
 ]
 
 sender_email = "thais.testes@outlook.pt"
-sender_password = "Rayka101010*"
+sender_password = "SenhaTeste123*"
 smtp_server = "smtp-mail.outlook.com"
 smtp_port = 587
 
